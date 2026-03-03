@@ -1,1 +1,1 @@
-web: gunicorn Pothireddy-Portfolio.wsgi
+web: gunicorn portfolio.wsgi
